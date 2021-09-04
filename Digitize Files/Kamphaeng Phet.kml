@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Kamphaeng Phet.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>Kamphaeng Phet</name>
+		<open>1</open>
+		<Placemark>
+			<name>Start</name>
+			<LookAt>
+				<longitude>100.6983272795306</longitude>
+				<latitude>13.73435277440164</latitude>
+				<altitude>0</altitude>
+				<heading>0.1209761934416666</heading>
+				<tilt>24.27870387548755</tilt>
+				<range>328.3281973016782</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>100.5541184146504,13.80322771260945,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>End</name>
+			<LookAt>
+				<longitude>100.5506125729242</longitude>
+				<latitude>13.79574459402943</latitude>
+				<altitude>0</altitude>
+				<heading>0.08850739212270176</heading>
+				<tilt>25.44940495947128</tilt>
+				<range>181.5494934437102</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>100.538768823344,13.79730277777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>road</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					100.5541275798508,13.80323217523849,0 100.5540440225485,13.80305673118686,0 100.5538985120563,13.80281591633677,0 100.5536966680596,13.80247354384725,0 100.5535414000097,13.80220531273811,0 100.5533282963383,13.80185542874471,0 100.5530717040425,13.80142488201004,0 100.5527212271313,13.80080697549396,0 100.5524720452053,13.80039748105892,0 100.5521219144161,13.79982517048735,0 100.5518575777785,13.79935479511816,0 100.5514683850206,13.79865510848591,0 100.551243407912,13.79825210943137,0 100.5511768133298,13.7981094360653,0 100.5509984902903,13.7979076755746,0 100.5507131026524,13.79778334164201,0 100.5504563699017,13.79772652771723,0 100.5495756140147,13.79770290468318,0 100.5489868595787,13.79768860564185,0 100.5482627559554,13.79766342259156,0 100.5473108633427,13.79763811837479,0 100.5461585818321,13.79760396777524,0 100.5459263042304,13.79760397028041,0 100.5455186633992,13.79751488396238,0 100.5441456952887,13.79746291909673,0 100.5425565645663,13.79761543560369,0 100.5407091745625,13.79781263575644,0 100.5400224743498,13.79787934515399,0 100.5393761352628,13.79774227283376,0 100.5389318740397,13.79745539318753,0 100.5387748507297,13.79731723085123,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

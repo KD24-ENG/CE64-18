@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Lat Pla Khao.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>Lat Pla Khao</name>
+		<Placemark>
+			<name>Start</name>
+			<LookAt>
+				<longitude>100.6176144523305</longitude>
+				<latitude>13.86180538232329</latitude>
+				<altitude>0</altitude>
+				<heading>0.2013561150024558</heading>
+				<tilt>9.816257179919312</tilt>
+				<range>2128.22218946677</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>100.5917943589087,13.83189444444445,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>End</name>
+			<LookAt>
+				<longitude>99.99999609114792</longitude>
+				<latitude>14.99999947976925</latitude>
+				<altitude>0</altitude>
+				<heading>-1.011685304206147e-06</heading>
+				<tilt>0</tilt>
+				<range>11013193.30064597</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>100.6146063309578,13.86444722222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>road</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					100.5918002895068,13.83192645586479,0 100.5918615969814,13.83242722630716,0 100.5919626350898,13.83322197445187,0 100.5920261689014,13.83374964988909,0 100.5921876937794,13.83418058082849,0 100.5928983291819,13.83504683224907,0 100.5931651743792,13.83540875897954,0 100.5933816536206,13.83580873555385,0 100.5935576366565,13.83617097158984,0 100.5938307595999,13.83691087620653,0 100.5941830260061,13.83792833875516,0 100.5944751618872,13.83880256549846,0 100.5946623119423,13.83932983630155,0 100.5947232242667,13.83954565229706,0 100.5947737420803,13.84002187266245,0 100.5947927587428,13.8409374456947,0 100.5949855750659,13.84169637587619,0 100.5950678493545,13.84197446698514,0 100.5952092562902,13.84212089190287,0 100.5962933138885,13.84276624775825,0 100.5974541637557,13.84342695763537,0 100.598632844902,13.84411460778002,0 100.5993301346017,13.84443906837013,0 100.600424216005,13.8449223335977,0 100.6010743096784,13.84529203174835,0 100.6022197986584,13.84599055172232,0 100.6032946493077,13.84666188609482,0 100.6036483050269,13.84689256693982,0 100.604431418432,13.84733502584007,0 100.6045492087314,13.84740795074404,0 100.6046384457013,13.84753660059717,0 100.6046590604724,13.84765933361512,0 100.6043156358497,13.84826232635815,0 100.6042245636438,13.84849405578092,0 100.6042415881882,13.84859749609648,0 100.6046405405651,13.8492177766295,0 100.6052957901073,13.85021480902566,0 100.6060618639337,13.85134943245297,0 100.6066367449557,13.85221688502143,0 100.6072283292777,13.85313067882056,0 100.6079028668451,13.85417572502149,0 100.6084356656139,13.8549833370061,0 100.6088810181774,13.85565229344031,0 100.609673855735,13.85685468918377,0 100.6103948231785,13.8579501304762,0 100.6109954059294,13.85889250165584,0 100.6117447080941,13.86005610910198,0 100.6123632303228,13.86103587933295,0 100.6129728244631,13.86197863335237,0 100.6136674925033,13.86301963629227,0 100.6143985807673,13.86410561951861,0 100.6146068082483,13.86441640800424,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
