@@ -9,8 +9,15 @@
 <body>
     <div id="app">
         {{ greeting }}
-        <input v-model="greeting" />
+        
     </div>
+    function myMap() {
+        var mapProp= {
+            center:new google.maps.LatLng(51.508742,-0.120850),
+            zoom:5,
+        };
+        var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
+        }
 
     <script src="https://unpkg.com/vue@next"></script>
     <script>
@@ -22,6 +29,7 @@
             }
         })
         app.mount('#app')
+
     </script>
 </body>
 </html>
