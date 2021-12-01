@@ -1,0 +1,438 @@
+{
+    "RD_ID": 1,
+    "name": "Lat Phrao",
+    "junction": [
+      {
+        "Junction_ID": 1,
+        "Latitude": 13.81226,
+        "Longitude": 100.56266,
+        "Alley": " Lat Phrao1"
+      },
+      {
+      "Junction_ID": 2,
+      "Latitude": 13.81147,
+      "Longitude": 100.56375,
+      "Alley": " Lat Phrao6"
+    },
+    {
+      "Junction_ID": 3,
+      "Latitude": 13.81157,
+      "Longitude": 100.56395,
+      "Alley": " Lat Phrao3"
+    },
+    {
+      "Junction_ID": 4,
+      "Latitude": 13.81098,
+      "Longitude": 100.56469,
+      "Alley": " Lat Phrao8"
+    },
+    {
+      "Junction_ID": 5,
+      "Latitude": 13.81041,
+      "Longitude": 100.56608,
+      "Alley": " Lat Phrao5"
+    },
+    {
+      "Junction_ID": 6,
+      "Latitude": 13.80989,
+      "Longitude": 100.56664,
+      "Alley": " Lat Phrao10"
+    },
+    {
+      "Junction_ID": 7,
+      "Latitude": 13.80971,
+      "Longitude": 100.5673,
+      "Alley": " Lat Phrao7"
+    },
+    {
+      "Junction_ID": 8,
+      "Latitude": 13.80831,
+      "Longitude": 100.56945,
+      "Alley": " Lat Phrao16"
+    },
+    {
+      "Junction_ID": 9,
+      "Latitude": 13.80793,
+      "Longitude": 100.5705,
+      "Alley": " Lat Phrao15"
+    },
+    {
+      "Junction_ID": 10,
+      "Latitude": 13.80767,
+      "Longitude": 100.57059,
+      "Alley": " Lat Phrao20"
+    },
+    {
+      "Junction_ID": 11,
+      "Latitude": 13.80691,
+      "Longitude": 100.5724,
+      "Alley": " Lat Phrao17"
+    },
+    {
+      "Junction_ID": 12,
+      "Latitude": 13.80624,
+      "Longitude": 100.57312,
+      "Alley": " Lat Phrao26"
+    },
+    {
+      "Junction_ID": 13,
+      "Latitude": 13.8055,
+      "Longitude": 100.57479,
+      "Alley": "Ratchada - Lat Phrao Intersection"
+    },
+    {
+      "Junction_ID": 14,
+      "Latitude": 13.80516,
+      "Longitude": 100.57508,
+      "Alley": "Ratchada - Lat Phrao Intersection"
+    },
+    {
+      "Junction_ID": 15,
+      "Latitude": 13.80391,
+      "Longitude": 100.57768,
+      "Alley": " Lat Phrao25"
+    },
+    {
+      "Junction_ID": 16,
+      "Latitude": 13.80357,
+      "Longitude": 100.5779,
+      "Alley": " Lat Phrao36"
+    },
+    {
+      "Junction_ID": 17,
+      "Latitude": 13.80294,
+      "Longitude": 100.57946,
+      "Alley": " Lat Phrao31"
+    },
+    {
+      "Junction_ID": 18,
+      "Latitude": 13.80188,
+      "Longitude": 100.58089,
+      "Alley": " Lat Phrao42"
+    },
+    {
+      "Junction_ID": 19,
+      "Latitude": 13.80167,
+      "Longitude": 100.58169,
+      "Alley": " Lat Phrao35/1"
+    },
+    {
+      "Junction_ID": 20,
+      "Latitude": 13.80007,
+      "Longitude": 100.58413,
+      "Alley": " Lat Phrao46"
+    },
+    {
+      "Junction_ID": 21,
+      "Latitude": 13.79994,
+      "Longitude": 100.58473,
+      "Alley": " Lat Phrao41/1"
+    },
+    {
+      "Junction_ID": 22,
+      "Latitude": 13.79828,
+      "Longitude": 100.58734,
+      "Alley": " Lat Phrao48"
+    },
+    {
+      "Junction_ID": 23,
+      "Latitude": 13.79815,
+      "Longitude": 100.58797,
+      "Alley": " Lat Phrao43/2"
+    },
+    {
+      "Junction_ID": 24,
+      "Latitude": 13.79672,
+      "Longitude": 100.59015,
+      "Alley": " Lat Phrao48/1"
+    },
+    {
+      "Junction_ID": 25,
+      "Latitude": 13.79676,
+      "Longitude": 100.59054,
+      "Alley": " Lat Phrao47"
+    },
+    {
+      "Junction_ID": 26,
+      "Latitude": 13.79592,
+      "Longitude": 100.59157,
+      "Alley": " Lat Phrao52"
+    },
+    {
+      "Junction_ID": 27,
+      "Latitude": 13.79595,
+      "Longitude": 100.59191,
+      "Alley": " Lat Phrao51"
+    },
+    {
+      "Junction_ID": 28,
+      "Latitude": 13.79473,
+      "Longitude": 100.59368,
+      "Alley": " Lat Phrao56"
+    },
+    {
+      "Junction_ID": 29,
+      "Latitude": 13.79442,
+      "Longitude": 100.59463,
+      "Alley": " Lat Phrao53/1"
+    },
+    {
+      "Junction_ID": 30,
+      "Latitude": 13.79349,
+      "Longitude": 100.59596,
+      "Alley": " Lat Phrao60"
+    },
+    {
+      "Junction_ID": 31,
+      "Latitude": 13.79324,
+      "Longitude": 100.59673,
+      "Alley": " Lat Phrao55/2"
+    },
+    {
+      "Junction_ID": 32,
+      "Latitude": 13.79257,
+      "Longitude": 100.59755,
+      "Alley": " Lat Phrao62"
+    },
+    {
+      "Junction_ID": 33,
+      "Latitude": 13.79236,
+      "Longitude": 100.59833,
+      "Alley": " Lat Phrao61"
+    },
+    {
+      "Junction_ID": 34,
+      "Latitude": 13.79138,
+      "Longitude": 100.5997,
+      "Alley": " Lat Phrao64"
+    },
+    {
+      "Junction_ID": 35,
+      "Latitude": 13.79049,
+      "Longitude": 100.60168,
+      "Alley": " Lat Phrao63"
+    },
+    {
+      "Junction_ID": 36,
+      "Latitude": 13.78956,
+      "Longitude": 100.60297,
+      "Alley": " Lat Phrao72"
+    },
+    {
+      "Junction_ID": 37,
+      "Latitude": 13.78942,
+      "Longitude": 100.60355,
+      "Alley": " Lat Phrao67"
+    },
+    {
+      "Junction_ID": 38,
+      "Latitude": 13.78882,
+      "Longitude": 100.60426,
+      "Alley": " Lat Phrao76"
+    },
+    {
+      "Junction_ID": 39,
+      "Latitude": 13.78808,
+      "Longitude": 100.60598,
+      "Alley": " Lat Phrao67/2"
+    },
+    {
+      "Junction_ID": 40,
+      "Latitude": 13.78781,
+      "Longitude": 100.60623,
+      "Alley": " Lat Phrao80/2"
+    },
+    {
+      "Junction_ID": 41,
+      "Latitude": 13.78751,
+      "Longitude": 100.60702,
+      "Alley": " Lat Phrao69"
+    },
+    {
+      "Junction_ID": 42,
+      "Latitude": 13.78688,
+      "Longitude": 100.60776,
+      "Alley": " Lat Phrao84"
+    },
+    {
+      "Junction_ID": 43,
+      "Latitude": 13.78668,
+      "Longitude": 100.60852,
+      "Alley": "Lardphrao86 Junction"
+    },
+    {
+      "Junction_ID": 44,
+      "Latitude": 13.78584,
+      "Longitude": 100.60963,
+      "Alley": " Lat Phrao88/1"
+    },
+    {
+      "Junction_ID": 45,
+      "Latitude": 13.78569,
+      "Longitude": 100.61027,
+      "Alley": " Lat Phrao79"
+    },
+    {
+      "Junction_ID": 46,
+      "Latitude": 13.78493,
+      "Longitude": 100.61135,
+      "Alley": " Lat Phrao92/1"
+    },
+    {
+      "Junction_ID": 47,
+      "Latitude": 13.78417,
+      "Longitude": 100.61302,
+      "Alley": " Lat Phrao83"
+    },
+    {
+      "Junction_ID": 48,
+      "Latitude": 13.78396,
+      "Longitude": 100.61307,
+      "Alley": " Lat Phrao98/1"
+    },
+    {
+      "Junction_ID": 49,
+      "Latitude": 13.78162,
+      "Longitude": 100.61751,
+      "Alley": " Lat Phrao87"
+    },
+    {
+      "Junction_ID": 50,
+      "Latitude": 13.78108,
+      "Longitude": 100.61815,
+      "Alley": " Lat Phrao112"
+    },
+    {
+      "Junction_ID": 51,
+      "Latitude": 13.78066,
+      "Longitude": 100.61932,
+      "Alley": " Lat Phrao89"
+    },
+    {
+      "Junction_ID": 52,
+      "Latitude": 13.78009,
+      "Longitude": 100.61993,
+      "Alley": " Lat Phrao114"
+    },
+    {
+      "Junction_ID": 53,
+      "Latitude": 13.77958,
+      "Longitude": 100.62117,
+      "Alley": " Lat Phrao93/1"
+    },
+    {
+      "Junction_ID": 54,
+      "Latitude": 13.7791,
+      "Longitude": 100.62172,
+      "Alley": " Lat Phrao118"
+    },
+    {
+      "Junction_ID": 55,
+      "Latitude": 13.77878,
+      "Longitude": 100.62268,
+      "Alley": " Lat Phrao95"
+    },
+    {
+      "Junction_ID": 56,
+      "Latitude": 13.77771,
+      "Longitude": 100.62421,
+      "Alley": " Lat Phrao122"
+    },
+    {
+      "Junction_ID": 57,
+      "Latitude": 13.77752,
+      "Longitude": 100.62485,
+      "Alley": " Lat Phrao97"
+    },
+    {
+      "Junction_ID": 58,
+      "Latitude": 13.77606,
+      "Longitude": 100.62719,
+      "Alley": " Lat Phrao126"
+    },
+    {
+      "Junction_ID": 59,
+      "Latitude": 13.77509,
+      "Longitude": 100.62919,
+      "Alley": " Lat Phrao101"
+    },
+    {
+      "Junction_ID": 60,
+      "Latitude": 13.77475,
+      "Longitude": 100.6295,
+      "Alley": " Lat Phrao128/2"
+    },
+    {
+      "Junction_ID": 61,
+      "Latitude": 13.77404,
+      "Longitude": 100.63113,
+      "Alley": " Lat Phrao101/2"
+    },
+    {
+      "Junction_ID": 62,
+      "Latitude": 13.77384,
+      "Longitude": 100.63116,
+      "Alley": " Lat Phrao128/4"
+    },
+    {
+      "Junction_ID": 63,
+      "Latitude": 13.77272,
+      "Longitude": 100.63342,
+      "Alley": " Lat Phrao103"
+    },
+    {
+      "Junction_ID": 64,
+      "Latitude": 13.77164,
+      "Longitude": 100.63504,
+      "Alley": " Lat Phrao132"
+    },
+    {
+      "Junction_ID": 65,
+      "Latitude": 13.77145,
+      "Longitude": 100.63569,
+      "Alley": " Lat Phrao111"
+    },
+    {
+      "Junction_ID": 66,
+      "Latitude": 13.77099,
+      "Longitude": 100.63617,
+      "Alley": " Lat Phrao134"
+    },
+    {
+      "Junction_ID": 67,
+      "Latitude": 13.76994,
+      "Longitude": 100.63837,
+      "Alley": " Lat Phrao111/1"
+    },
+    {
+      "Junction_ID": 68,
+      "Latitude": 13.76956,
+      "Longitude": 100.63875,
+      "Alley": " Lat Phrao142"
+    },
+    {
+      "Junction_ID": 69,
+      "Latitude": 13.76866,
+      "Longitude": 100.64077,
+      "Alley": " Lat Phrao115"
+    },
+    {
+      "Junction_ID": 70,
+      "Latitude": 13.7679,
+      "Longitude": 100.64158,
+      "Alley": " The Mall Bangkapi"
+    },
+    {
+      "Junction_ID": 71,
+      "Latitude": 13.76802,
+      "Longitude": 100.6419,
+      "Alley": " Happy Land Sai 1 Rd"
+    },
+    {
+      "Junction_ID": null,
+      "Latitude": 13.7672,
+      "Longitude": 100.64295,
+      "Alley": " Lat Phrao End"
+    }
+]
+}

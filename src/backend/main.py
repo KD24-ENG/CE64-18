@@ -5,6 +5,7 @@ import folium
 import datetime
 import json
 import requests
+import polyline
 import numpy as np
 
 app = Flask(__name__)
@@ -29,6 +30,8 @@ def base():
         tooltip="Click Here!"
     ).add_to(map)
     return map._repr_html_()
+
+    polyline.encode([(38.5, -120.2), (40.7, -120.9), (43.2, -126.4)], 5)
 
 
 if __name__ == "__main__":

@@ -2,6 +2,7 @@
     "cSpell.ignoreWords": [
         "articles_schema",
         "flask_sqlalchemy",
-        "geojson"
+        "geojson",
+        "polyline"
     ]
 }
