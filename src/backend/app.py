@@ -3,14 +3,13 @@ from flask_sqlalchemy import SQLAlchemy
 from flask_cors import CORS
 import folium
 import datetime
-import json
 
 app = Flask(__name__)
 app.config.from_object(__name__)
 
 CORS(app, resource={r"/*": {"origins": "*"}})
 
-@app.route("/", methods=["GET", "POST"])
+@app.route("/")
 def base():
     # this is base map
     map = folium.Map(
