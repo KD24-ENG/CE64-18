@@ -4,9 +4,6 @@ from flask_cors import CORS
 import folium
 import datetime
 import json
-import requests
-import numpy as np
-import pandas as pd
 
 app = Flask(__name__)
 app.config.from_object(__name__)
