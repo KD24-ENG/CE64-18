@@ -1,5 +1,11 @@
 <template>
-  <div class="about">
-    <h1>This is an about stat</h1>
+  <div class="stat">
+    <h1>Stat</h1>
   </div>
 </template>
+
+<script>
+export default {
+
+}
+</script>
