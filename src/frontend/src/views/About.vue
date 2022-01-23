@@ -1,6 +1,7 @@
 <template>
     <div class="about">
-        <h1>About</h1>
+        <p class="title font-weight-bold text-center my-16">ติดต่อผู้พัฒนา</p>
+        <p class="text-center"></p>
     </div>
 </template>
 
