@@ -57,6 +57,10 @@ export default {
         '&copy; <a target="_blank" href="http://osm.org/copyright">OpenStreetMap</a> contributors',
         zoom: 15,
         center: [13.76492902071622, 100.53823436762788],
+        polyline: {
+        latlngs: [[47.334852, -1.509485], [47.342596, -1.328731], [47.241487, -1.190568], [47.234787, -1.358337]],
+        color: 'green'
+        }
         };
     }
 }
