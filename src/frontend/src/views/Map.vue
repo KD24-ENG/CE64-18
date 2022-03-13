@@ -30,6 +30,7 @@
         <l-map class="buttom" style="height: 645px" :zoom="zoom" :center="center">
         <l-tile-layer :url="url" :attribution="attribution"></l-tile-layer>
         <l-marker :lat-lng="markerLatLng"></l-marker>
+        <l-polyline :lat-lngs="polyline.latlngs" :color="polyline.color"></l-polyline>
         </l-map>
     </div>
 </template>
@@ -40,19 +41,20 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 
 <script>
-import {LMap, LTileLayer} from 'vue2-leaflet';
+import {LMap, LTileLayer, LPolyline} from 'vue2-leaflet';
 
 export default {
     components: {
     LMap,
     LTileLayer,
+    LPolyline,
     },
     data () {
     return {
         items: ['นครสวรรค์', 'พระราม5', 'ลาดพร้าว', 'ศรีอยุธยา', 'สามเสน', 'หลานหลวง'],
         url: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
         attribution:
-            '&copy; <a target="_blank" href="http://osm.org/copyright">OpenStreetMap</a> contributors',
+        '&copy; <a target="_blank" href="http://osm.org/copyright">OpenStreetMap</a> contributors',
         zoom: 15,
         center: [13.76492902071622, 100.53823436762788],
         };
