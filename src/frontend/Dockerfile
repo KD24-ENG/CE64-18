@@ -1,20 +1,17 @@
 # Start from base image
-FROM golang:alpine
+FROM mysql:latest
 
 # Set the current working directory inside the container
-WORKDIR /backend
+WORKDIR /app
 
 # Copy go mod and sum files
-COPY go.mod go.sum ./
+COPY package.json ./
 
 # Download all dependencies
-RUN go mod download
+RUN npm install
 
 # Copy source from current directory to working directory
 COPY . .
-
-# Build the application
-RUN go build -o main .
 
 # Expose necessary port
 EXPOSE 3000
