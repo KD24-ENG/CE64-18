@@ -37,7 +37,7 @@ export default {
             links: [
                 { icon: 'home', text: 'Home', route: '/'},
                 { icon: 'map', text: 'Map', route: '/map'},
-                { icon: 'dashboard', text: 'Dashboard', route: '/dashboard'},
+                /*{ icon: 'dashboard', text: 'Dashboard', route: '/dashboard'},*/
                 { icon: 'equalizer', text: 'Stat', route: '/stat'},
                 { icon: 'contacts', text: 'About', route: '/about'},
             ]

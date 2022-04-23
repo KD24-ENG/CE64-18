@@ -19,7 +19,7 @@ services:
     container_name: myadmin
     restart: always
     ports:
-      - '8081:80'
+      - '8080:80'
     environment:
       PMA_HOST: db
       MYSQL_ROOT_PASSWORD: 050819
@@ -34,7 +34,7 @@ services:
     environment:
       ADMINER_DEFAULT_SERVER: db
     ports:
-      - 8888:8081
+      - 8888:8080
     networks:
       - dev_network
 
